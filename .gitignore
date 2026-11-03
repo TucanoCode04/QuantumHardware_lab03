@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+__MACOSX/
+.DS_Store
+*.code-workspace
+*.pdf
+to ask/
+*.png
